@@ -13,5 +13,6 @@ Este proyecto proporciona una API en Laravel que consulta datos de Stack Overflo
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-repositorio.git
-cd nombre-repositorio
+git clone https://github.com/victor-prt/API-Laravel-Project.git
+cd API-Laravel-Project
+./setup.sh
